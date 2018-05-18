@@ -3,7 +3,7 @@ import fresh_tomatoes
 
 
 def main():
-    """Generate an HTML page to show movies with corresponding information.""""
+    """Generate an HTML page to show movies with corresponding information."""
     toy_story = media.Movie("Toy Story", "A story of a boy and his toys that come to life", "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg", "https://www.youtube.com/watch?v=KYz2wyBy3kc")
     forrest_gump = media.Movie("Forrest Gump", "A story of an imbecile who makes history.", "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg", "https://www.youtube.com/watch?v=77ij5gCTjYU")
     goodfellas = media.Movie("Goodfellas", "The rise and fall of a gangster.", "https://upload.wikimedia.org/wikipedia/en/7/7b/Goodfellas.jpg", "https://www.youtube.com/watch?v=qo5jJpHtI1Y")
