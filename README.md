@@ -1,4 +1,6 @@
 # ud036_StarterCode
+# Author: Arie Slobbe
+
 Source code to generate a Movie Trailer website.
 
 **Installation**
@@ -23,7 +25,7 @@ The webpage should open automatically. Subsequently the page can be opened by op
 
 Install Python 2.7 or newer on your system.
 
-**How to ship a change** 
+**How to ship a change**
 
 If you would like to contribute to this project, please contact the author Arie Slobbe.
 
